@@ -1,17 +1,26 @@
 @media (min-width: 576px) {
-
+    .hex-layer-1 {
+        width: 160px;
+        height: 177px;
+    }
 }
 
 @media (min-width: 768px) {
-
+    .hex-layer-1 {
+        width: 160px;
+        height: 177px;
+    }
 }
 
 @media (min-width: 992px) {
-
+    .hex-layer-1 {
+        width: 160px;
+        height: 177px;
+    }
 }
 
 @media (min-width: 1200px) {
-    .container{
+    .container {
 
     }
 }

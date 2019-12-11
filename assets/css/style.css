@@ -132,10 +132,8 @@ img {
 
 /* hexagons*/
 .hexagons-main {
-    width: 100%;
     position: relative;
     display: flex;
-    justify-content: center;
 }
 
 .hexagons-main:before {
