@@ -20,7 +20,8 @@
 }
 
 @media (min-width: 1200px) {
-    .container {
-
+    .hex-layer-1 {
+        width: 160px;
+        height: 177px;
     }
 }
